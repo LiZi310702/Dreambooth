@@ -20,5 +20,5 @@ Fine-Tuning Stable Diffusion Model With Dreambooth
    + class_promt: photo of Jennie
    + training steps: 800
    + learning rate: 1e-6
-6. Model
+6. Output: checkpoint
    https://drive.google.com/drive/folders/1-6Y2KqFkGGTKzP0EzcYRFsxfaiUqFEpA?usp=sharing
