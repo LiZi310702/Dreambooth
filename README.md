@@ -24,8 +24,9 @@ Fine-Tuning Stable Diffusion Model With Dreambooth
    + learning rate: 1e-6
 6. Output: checkpoint
    https://drive.google.com/drive/folders/1-6Y2KqFkGGTKzP0EzcYRFsxfaiUqFEpA?usp=sharing
+   
 7. Output picture:
-   ![1](https://github.com/LiZi310702/Dreambooth/assets/119061458/2ddf6814-cbd1-4c6b-961e-ccf48ce7c8f7)
+   
    ![2](https://github.com/LiZi310702/Dreambooth/assets/119061458/099168c8-9f6b-439c-aef6-1b288b3e1698)
    ![3](https://github.com/LiZi310702/Dreambooth/assets/119061458/ea3f1dbc-b0dd-4097-bd61-ed554e4253a7)
-   ![4]image](https://github.com/LiZi310702/Dreambooth/assets/119061458/43ca8065-1f1f-4e42-9cdf-1c27980035cc)
+   ![4](https://github.com/LiZi310702/Dreambooth/assets/119061458/43ca8065-1f1f-4e42-9cdf-1c27980035cc)
