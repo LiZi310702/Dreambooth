@@ -4,10 +4,11 @@ Fine-Tuning Stable Diffusion Model With Dreambooth
 1. Dữ liệu huấn luyện:
    - crawl dữ liệu với BingImageCrawler
    ![image](https://github.com/LiZi310702/Dreambooth/assets/119061458/c2f39a0b-247d-4a90-b095-d3ec61e9a5a1)
-![Pic (29)](https://github.com/LiZi310702/Dreambooth/assets/119061458/98a2557c-5d93-4803-96c0-aab73a024d0b)
+   ![Pic (29)](https://github.com/LiZi310702/Dreambooth/assets/119061458/98a2557c-5d93-4803-96c0-aab73a024d0b)
 
-![Pic (23)](https://github.com/LiZi310702/Dreambooth/assets/119061458/f6d08d13-c351-4dd2-91c1-83498f2506a4)
-![Pic (43)](https://github.com/LiZi310702/Dreambooth/assets/119061458/3a8c8307-de22-418a-818a-57dbd3944afe)
+   ![Pic (23)](https://github.com/LiZi310702/Dreambooth/assets/119061458/f6d08d13-c351-4dd2-91c1-83498f2506a4)
+   ![Pic (43)](https://github.com/LiZi310702/Dreambooth/assets/119061458/3a8c8307-de22-418a-818a-57dbd3944afe)
+   
 3. Tiền xử lí dữ liệu
    - Xử lí kích thước dữ liệu với BIRME
      ![image](https://github.com/LiZi310702/Dreambooth/assets/119061458/d0346a65-29e2-4052-a852-3e4a0cd063a6)
